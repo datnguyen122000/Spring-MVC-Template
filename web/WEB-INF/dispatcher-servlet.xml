@@ -22,6 +22,7 @@
 
    <context:component-scan
       base-package="Control" />
+   
 
    <mvc:annotation-driven />
 

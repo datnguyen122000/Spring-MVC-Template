@@ -16,5 +16,4 @@
     <!-- Activates scanning of @Repository and @Service and @Component -->
 
     <context:component-scan base-package="Control" />
-
 </beans>
